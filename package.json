@@ -1,0 +1,18 @@
+{
+  "name": "filter-bar-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/index.html"
+  },
+  "license": "MIT",
+  "devDdependencies": {
+    "parcel-bundler": "^2.23.0"
+  },
+  "dependencies": {
+    "@myob/myob-styles": "^6.0.1-rm-proptypes.0",
+    "@myob/myob-widgets": "^6.0.1-rm-proptypes.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}

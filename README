@@ -1,0 +1,10 @@
+# filter bar bug
+
+resizing chrome to a mobile width causes the `reset` and `apply filters` buttons to dissappear.
+
+```
+npm i
+npm start
+```
+
+
